@@ -1,3 +1,4 @@
+Long Mem
 **근거를 포함하도록 rewrite를 바꾸자 `rewrite_only`가 EM 52%, F1 0.649까지 올라왔습니다.** 이번 결과에서는 성능과 비용을 함께 보면 이 방식이 유력합니다.
 
 100개, `gpt-6-luna`, effort `none`, LLM judge 없이 평가했습니다. 이번의 rewrite는 **관련 사실·날짜·변경 기록과 질문을 함께 담은 입력**입니다.
